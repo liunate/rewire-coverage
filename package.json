@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "coverage": "jest --coverage"
+  },
+  "private": true,
+  "dependencies": {
+    "jest": "^23.1.0",
+    "mkdirp": "^0.5.1",
+    "rewire": "3.0.2"
+  }
+}
